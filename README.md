@@ -51,9 +51,7 @@
       <p>
         I'm a <b>Frontend Developer</b> from <b>Indonesia</b> who creates extraordinary digital experiences that merge cutting-edge technology with stunning visual design.
       </p>
-      
       <h4>What I Do:</h4>
-      
       <ul>
         <li>🚀 Build next-generation web platforms with <b>React</b>, <b>Next.js</b> & <b>TypeScript</b></li>
         <li>🔮 Explore <b>3D Web Experiences</b>, <b>WebGL</b> & <b>Immersive UI</b></li>
@@ -61,9 +59,7 @@
         <li>🌐 Collaborate with teams globally while based in Indonesia</li>
         <li>📈 Focus on <b>clean code</b>, <b>accessibility</b> & <b>scalable architectures</b></li>
       </ul>
-      
       <h4>Currently:</h4>
-      
       <ul>
         <li>🔍 Exploring advanced animation techniques with Framer Motion</li>
         <li>📚 Expanding my knowledge in WebGL and Three.js</li>
