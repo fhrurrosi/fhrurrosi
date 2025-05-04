@@ -45,8 +45,7 @@
   </a>
 </div>
 
-<!-- Cyberpunk Separator -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/output/src/banner-rainbow.gif" width="100%">
+
 
 <!-- About Me Section with Matrix Animation Effect -->
 <div align="center">
@@ -121,8 +120,7 @@
   <br>
   
 
-<!-- Futuristic Separator -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/output/src/banner-rainbow.gif" width="100%">
+
 
 <!-- GitHub Stats with Neon Glow -->
 <div align="center">
@@ -158,6 +156,7 @@
   <!-- Trophy Case with Holographic Effect -->
   <img src="https://github-profile-trophy.vercel.app/?username=fhrurrosi&theme=algolia&no-frame=true&column=7&margin-w=15&no-bg=true" width="100%" />
   
+  <br>
   <br>
   
   <!-- Activity Graph with Neon -->
@@ -279,19 +278,6 @@
   </table>
 </div>
 
-<!-- Futuristic Separator -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/output/src/banner-rainbow.gif" width="100%">
-
-<!-- Developer Metrics with Circular Graphs -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="35"> 
-    Development Metrics
-    <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="35">
-  </h2>
-  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fhrurrosi&layout=compact&theme=radical&hide_border=true" alt="WakaTime Stats" width="70%">
-
   
   <h3>Weekly Coding Breakdown</h3>
   
@@ -305,8 +291,6 @@
   ```
 </div>
 
-<!-- Cyberpunk Separator -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/output/src/banner-rainbow.gif" width="100%">
 
 <!-- Developer Philosophy with Neo Cyberpunk Style -->
 <div align="center">
@@ -328,8 +312,6 @@
   </div>
 </div>
 
-<!-- Futuristic Separator -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/output/src/banner-rainbow.gif" width="100%">
 
 <!-- Advanced Contribution Snake Animation - KEEPING THIS AS REQUESTED -->
 <div align="center">
@@ -344,21 +326,9 @@
 </div>
 
 <!-- Neon Separator -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/output/src/banner-rainbow.gif" width="100%">
 
-<!-- Music & Spotify Section -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/PkYIv6yLOiBgb4UXaL/giphy.gif" width="30"> 
-    Currently Vibing To
-    <img src="https://media.giphy.com/media/PkYIv6yLOiBgb4UXaL/giphy.gif" width="30">
-  </h2>
-  
-  [![Spotify](https://novatorem-eight-chi.vercel.app/api/spotify)](https://open.spotify.com/user/31kdvssozky43vqins25o5lobvim?si=7znu2GmxR_GGQVNZeWS-OQ )
-</div>
 
-<!-- Neon Separator -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/output/src/banner-rainbow.gif" width="100%">
+
 
 <!-- Quote Machine -->
 <div align="center">
