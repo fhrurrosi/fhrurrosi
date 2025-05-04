@@ -108,25 +108,18 @@
     <h3>🔮 Frontend Mastery</h3>
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,angular&theme=dark" />
     <br>
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,styledcomponents&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&theme=dark" />
   </div>
   <br>
   
   <!-- Tools & Frameworks -->
   <div>
     <h3>⚡ Developer Toolkit</h3>
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vite,webpack&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vite&theme=dark" />
     <br>
-    <img src="https://skillicons.dev/icons?i=redux,graphql,jest,firebase,vercel,netlify&theme=dark" />
   </div>
   <br>
   
-  <!-- Exploring Technologies -->
-  <div>
-    <h3>🌠 Exploring New Frontiers</h3>
-    <img src="https://skillicons.dev/icons?i=threejs,webgl,gsap,supabase,prisma,astro&theme=dark" />
-  </div>
-</div>
 
 <!-- Futuristic Separator -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/output/src/banner-rainbow.gif" width="100%">
@@ -297,7 +290,8 @@
     <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="35">
   </h2>
   
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@fhrurrosi&layout=compact&theme=radical&hide_border=true" alt="WakaTime Stats" width="70%">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fhrurrosi&layout=compact&theme=radical&hide_border=true" alt="WakaTime Stats" width="70%">
+
   
   <h3>Weekly Coding Breakdown</h3>
   
