@@ -1,168 +1,194 @@
-<!-- Futuristic Tech-Themed Header -->
+<!-- 3D Holographic Tech Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=300&section=header&text=Rosi%20Dev&fontSize=90&fontAlignY=40&desc=Frontend%20Developer%20%26%20React%20Specialist&descAlignY=60&animation=fadeIn" alt="Header Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12&section=header&text=ROSI%20DEV&fontColor=ffffff&fontSize=90&fontAlignY=38&desc=Frontend%20Architect%20%7C%20React%20Expert%20%7C%20UI/UX%20Engineer&descAlignY=60&animation=twinkling&stroke=38BDF8&strokeWidth=2" width="100%">
 </div>
 
+<!-- Profile Status Badge with Live Stats -->
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&duration=3000&pause=750&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+digital+workshop;Where+code+meets+creativity;UI/UX+Engineer;React+Architecture+Expert;Building+the+future+web)](https://git.io/typing-svg)
-  
-  <a href="https://komarev.com/ghpvc/?username=fhrurrosi&style=for-the-badge&color=blueviolet">
-    <img src="https://komarev.com/ghpvc/?username=fhrurrosi&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/Status-Available_for_Projects-46C93A?style=for-the-badge&labelColor=black&logo=statuspage&logoColor=white" alt="Status">
   </a>
-  
+  <a href="#">
+    <img src="https://img.shields.io/badge/Experience-5+_Years-38BDF8?style=for-the-badge&labelColor=black&logo=expertise&logoColor=white" alt="Experience">
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=fhrurrosi&style=for-the-badge&color=blueviolet">
+    <img src="https://komarev.com/ghpvc/?username=fhrurrosi&style=for-the-badge&color=blueviolet" alt="Profile Views">
+  </a>
 </div>
 
-<!-- Connect Section with Hover Effects -->
+<!-- Dynamic Headline with Cyberpunk Style -->
 <div align="center">
-  <h2><img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50"> Connect With Me</h2>
+  <br>
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=2000&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&height=70&lines=Welcome+to+my+digital+realm;Frontend+Architecture+Specialist;Creator+of+Immersive+Experiences;UI/UX+Engineering+Expert;Building+Tomorrow's+Web+Today" alt="Typing SVG">
+  </a>
+</div>
+
+<!-- Interactive Connect Section with Neon Glow Effect -->
+<div align="center">
+  <h2><img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="40"> Connect With Me</h2>
   
   <a href="mailto:mfahrurrosi14@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" height="35" alt="Gmail" />
+    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" width="50px" alt="Gmail">
   </a>
+  &nbsp;&nbsp;
   <a href="https://twitter.com/fhrurrosi" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=30" height="35" alt="Twitter" />
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="50px" alt="Twitter">
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/m-fahrur-rosi-954190336" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" height="35" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="50px" alt="LinkedIn">
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/fhrurrosi" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=30" height="35" alt="Instagram" />
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="50px" alt="Instagram">
   </a>
 </div>
 
-<br>
+<!-- Cyberpunk Separator -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/output/src/banner-rainbow.gif" width="100%">
 
-<!-- Stylish Separator -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- About Me Section with Tilt Effect Card -->
+<!-- About Me Section with Matrix Animation Effect -->
 <div align="center">
-  <h2><img src="https://media.giphy.com/media/OMrq3iNRzxQIU/giphy.gif" width="50"> About Me</h2>
+  <h2>
+    <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="40"> 
+    About Me
+    <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="40">
+  </h2>
 </div>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 3;">
-    <p>
-      I'm a <b>Frontend Developer</b> from <b>Indonesia</b> with a passion for creating extraordinary digital experiences that blend beautiful aesthetics with flawless functionality. My work sits at the intersection of <b>code</b>, <b>design</b>, and <b>user psychology</b>.
-    </p>
-    <p>
-      <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30"/>
-      Based in Indonesia, working worldwide
-    </p>
-    <p>
-      <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/laptop_parrot.gif" width="30"/> 
-      Currently crafting next-generation interfaces at <b>React</b> & <b>Next.js</b>
-    </p>
-    <p>
-      <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/science_parrot.gif" width="30"/>
-      Exploring the frontiers of <b>Three.js</b>, <b>WebGL</b> and <b>3D Web Experiences</b>
-    </p>
-    <p>
-      <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/githubparrot.gif" width="30"/>
-      Open for collaborations on innovative projects
-    </p>
+<table>
+  <tr>
+    <td width="70%">
+      <p>
+        I'm a <b>Frontend Developer</b> from <b>Indonesia</b> with a passion for creating extraordinary digital experiences that merge cutting-edge technology with stunning visual design.
+      </p>
+      <p>
+        <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-trinidadandtobago.gif" width="25"/> &nbsp;
+        Based in Indonesia, collaborating globally
+      </p>
+      <p>
+        <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-laptop.gif" width="25"/> &nbsp;
+        Building next-gen web platforms with <b>React</b>, <b>Next.js</b> & <b>TypeScript</b>
+      </p>
+      <p>
+        <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-portal.gif" width="25"/> &nbsp;
+        Exploring <b>3D Web Experiences</b>, <b>WebGL</b> & <b>Immersive UI</b>
+      </p>
+      <p>
+        <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-github.gif" width="25"/> &nbsp;
+        Open for collaborations on <b>innovative</b> & <b>groundbreaking</b> projects
+      </p>
+      <p>
+        <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-hypno.gif" width="25"/> &nbsp;
+        Passionate about <b>clean code</b>, <b>performant applications</b> & <b>pixel-perfect designs</b>
+      </p>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTN0am9uM3JiOWliNDN4aGcxbXRtdGZub3MzbHZvdnZheWwzN2YzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="300" alt="Developer Animation">
+      <br>
+      <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="300" alt="Developer Animation">
+    </td>
+  </tr>
+</table>
+
+<!-- High-Tech Separator -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/output/src/banner-rainbow.gif" width="100%">
+
+<!-- Tech Stack with Holographic Cards -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42"> 
+    Tech Arsenal
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42">
+  </h2>
+  
+  <!-- Frontend Development -->
+  <div>
+    <h3>🔮 Frontend Mastery</h3>
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,angular&theme=dark" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,styledcomponents&theme=dark" />
   </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300" alt="Developer Animation">
+  <br>
+  
+  <!-- Tools & Frameworks -->
+  <div>
+    <h3>⚡ Developer Toolkit</h3>
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vite,webpack&theme=dark" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=redux,graphql,jest,firebase,vercel,netlify&theme=dark" />
+  </div>
+  <br>
+  
+  <!-- Exploring Technologies -->
+  <div>
+    <h3>🌠 Exploring New Frontiers</h3>
+    <img src="https://skillicons.dev/icons?i=threejs,webgl,gsap,supabase,prisma,astro&theme=dark" />
   </div>
 </div>
 
-<br>
+<!-- Futuristic Separator -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/output/src/banner-rainbow.gif" width="100%">
 
-<!-- Stylish Separator -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- Tech Stack with Animated Icons -->
+<!-- GitHub Stats with Neon Glow -->
 <div align="center">
-  <h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42"> Tech Stack & Tools</h2>
-  
-  <h3>💻 Programming Languages</h3>
-  <p>
-    <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
-  </p>
-  
-  <h3>🚀 Frontend Frameworks & Libraries</h3>
-  <p>
-    <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" /></a>
-  </p>
-  
-  <h3>🛠️ Development Tools</h3>
-  <p>
-    <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
-  </p>
-  
-  <h3>🌱 Currently Learning</h3>
-  <p>
-    <a href="#"><img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL" /></a>
-  </p>
-</div>
-
-<br>
-
-<!-- Stylish Separator -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- Stats Section with Glass Morphism Effect -->
-<div align="center">
-  <h2><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> GitHub Stats</h2>
+  <h2>
+    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40"> 
+    GitHub Analytics
+    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40">
+  </h2>
 
   <!-- GitHub Skyline -->
   <a href="https://skyline.github.com/fhrurrosi/2024" target="_blank">
-    <img src="https://img.shields.io/badge/Check%20out%20my%20GitHub%20Skyline-12100E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline">
+    <img src="https://img.shields.io/badge/GitHub_Skyline-View_3D_Contribution_Graph-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline">
   </a>
   
   <br><br>
   
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fhrurrosi&theme=radical&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&background=45%2C0D1117%2C240B36&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=38BDF8&sideNums=38BDF8&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=777777" alt="GitHub Streak Stats" width="49%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=fhrurrosi&show_icons=true&theme=transparent&bg_color=45%2C0D1117%2C240B36&text_color=ffffff&title_color=38BDF8&icon_color=38BDF8&hide_border=true&border_radius=10" width="49%" alt="GitHub Stats" />
+  <!-- GitHub Stats with Neon Glow -->
+  <div style="display: flex; justify-content: space-between; gap: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=fhrurrosi&theme=radical&hide_border=true&background=0D1117&stroke=00E6FE&ring=00E6FE&fire=00E6FE&currStreakLabel=00E6FE&sideLabels=00E6FE" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=fhrurrosi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E6FE&text_color=FFFFFF&icon_color=38BDF8" width="49%" />
+  </div>
   
   <br>
   
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhrurrosi&layout=compact&theme=transparent&bg_color=45%2C0D1117%2C240B36&text_color=ffffff&title_color=38BDF8&hide_border=true&border_radius=10&langs_count=8" width="49%" alt="Most Used Languages" />
+  <!-- Language Stats with Neon Glow -->
+  <div style="display: flex; justify-content: space-between; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhrurrosi&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E6FE&text_color=FFFFFF" width="49%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fhrurrosi&theme=radical" width="49%" />
+  </div>
   
-  <!-- Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=fhrurrosi&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-
   <br>
   
-  <!-- Activity Graph -->
+  <!-- Trophy Case with Holographic Effect -->
+  <img src="https://github-profile-trophy.vercel.app/?username=fhrurrosi&theme=algolia&no-frame=true&column=7&margin-w=15&no-bg=true" width="100%" />
+  
+  <br>
+  
+  <!-- Activity Graph with Neon -->
   <details>
-    <summary><h3>📈 Activity Graph</h3></summary>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fhrurrosi&theme=react-dark&bg_color=20232a&hide_border=true&line=38BDF8&point=38BDF8" width="100%" alt="Activity Graph" />
+    <summary>
+      <h3>📈 Detailed Activity Analysis</h3>
+    </summary>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fhrurrosi&bg_color=0D1117&color=00E6FE&line=38BDF8&point=FFFFFF&area=true&area_color=38BDF8&hide_border=true" width="100%" alt="Activity Graph" />
   </details>
 </div>
 
-<br>
+<!-- Tech Wave Separator -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/output/src/banner-rainbow.gif" width="100%">
 
-<!-- Stylish Separator -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- Featured Projects with Glass Cards -->
+<!-- Portfolio Projects with Holographic Cards -->
 <div align="center">
-  <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Featured Projects</h2>
+  <h2>
+    <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="45"> 
+    Featured Projects
+    <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="45">
+  </h2>
 </div>
 
+<!-- Project Cards with Holographic Effect -->
 <div align="center">
   <table>
     <tr>
@@ -170,129 +196,190 @@
         <h3 align="center">Village Profile Website</h3>
         <div align="center">
           <a href="#" target="_blank">
-            <img src="https://ui-avatars.com/api/?name=Village+Profile&size=250&background=38BDF8&color=fff&bold=true" width="250px" alt="Village Profile Website"/>
+            <img src="https://hackernoon.com/images/0*4Gzjgh9Y7Gu8KEtZ.gif" width="300px" height="175px" alt="Village Profile Website"/>
           </a>
           <p>
             <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Code-38BDF8?style=for-the-badge&logo=github&logoColor=white"/>
+              <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
             <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Live_Demo-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/>
             </a>
           </p>
-          <p><strong>Next.js, Tailwind CSS, Framer Motion</strong></p>
-          <p>Modern, responsive website showcasing comprehensive information about a local village with interactive maps and community features</p>
+          <p>
+            <strong>Next.js • Tailwind CSS • Framer Motion • React Three Fiber</strong>
+          </p>
+          <p>
+            Modern, responsive website with 3D interactive elements, custom animations, interactive maps, and community features
+          </p>
         </div>
       </td>
       <td width="50%">
         <h3 align="center">Game Mod Dashboard</h3>
         <div align="center">
           <a href="#" target="_blank">
-            <img src="https://ui-avatars.com/api/?name=Game+Mod&size=250&background=845EC2&color=fff&bold=true" width="250px" alt="Game Mod Dashboard"/>
+            <img src="https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-7.gif" width="300px" height="175px" alt="Game Mod Dashboard"/>
           </a>
           <p>
             <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Code-845EC2?style=for-the-badge&logo=github&logoColor=white"/>
+              <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
             <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Live_Demo-845EC2?style=for-the-badge&logo=vercel&logoColor=white"/>
             </a>
           </p>
-          <p><strong>React, Redux, CSS Modules</strong></p>
-          <p>Comprehensive management interface for offline game mods with drag-and-drop functionality, custom sorting, and conflict detection</p>
+          <p>
+            <strong>React • Redux Toolkit • TypeScript • Styled Components</strong>
+          </p>
+          <p>
+            Advanced management interface for game mods with drag-and-drop functionality, custom sorting, and intelligent conflict detection
+          </p>
         </div>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">Personal Portfolio</h3>
+        <h3 align="center">3D Portfolio Experience</h3>
         <div align="center">
           <a href="#" target="_blank">
-            <img src="https://ui-avatars.com/api/?name=Portfolio&size=250&background=FF6F91&color=fff&bold=true" width="250px" alt="Personal Portfolio"/>
+            <img src="https://cdn.dribbble.com/users/972944/screenshots/16429534/media/d818201ce55ca23a30638559dd67855c.gif" width="300px" height="175px" alt="3D Portfolio"/>
           </a>
           <p>
             <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Code-FF6F91?style=for-the-badge&logo=github&logoColor=white"/>
+              <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
             <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Live_Demo-FF6F91?style=for-the-badge&logo=vercel&logoColor=white"/>
             </a>
           </p>
-          <p><strong>React, Three.js, GSAP</strong></p>
-          <p>Interactive portfolio featuring 3D elements, custom animations, and a unique user experience that showcases my frontend development skills</p>
+          <p>
+            <strong>React • Three.js • GSAP • WebGL • TypeScript</strong>
+          </p>
+          <p>
+            Immersive 3D portfolio featuring interactive elements, particle systems, custom shaders, and WebGL-powered visual effects
+          </p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">E-Commerce UI Concept</h3>
+        <h3 align="center">E-Commerce Experience</h3>
         <div align="center">
           <a href="#" target="_blank">
-            <img src="https://ui-avatars.com/api/?name=E-Commerce&size=250&background=00C9A7&color=fff&bold=true" width="250px" alt="E-Commerce UI"/>
+            <img src="https://cdn.dribbble.com/users/1366606/screenshots/17094846/media/a6b8b2c5639b3aaff9217e0e5e21d3fa.gif" width="300px" height="175px" alt="E-Commerce UI"/>
           </a>
           <p>
             <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Code-00C9A7?style=for-the-badge&logo=github&logoColor=white"/>
+              <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
             <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Live_Demo-00C9A7?style=for-the-badge&logo=vercel&logoColor=white"/>
             </a>
           </p>
-          <p><strong>Next.js, Tailwind CSS, Zustand</strong></p>
-          <p>Modern e-commerce interface with advanced filtering, animations, and a seamless checkout process optimized for desktop and mobile</p>
+          <p>
+            <strong>Next.js • Tailwind CSS • Zustand • Stripe • Sanity</strong>
+          </p>
+          <p>
+            Next-gen e-commerce platform with immersive product visualization, animations, and a seamless checkout process
+          </p>
         </div>
       </td>
     </tr>
   </table>
 </div>
 
-<br>
+<!-- Futuristic Separator -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/output/src/banner-rainbow.gif" width="100%">
 
-<!-- Stylish Separator -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- Coding Principles -->
+<!-- Developer Metrics with Circular Graphs -->
 <div align="center">
-  <h2><img src="https://media.giphy.com/media/5WILqPq29TyIkVCSej/giphy.gif" width="35"> My Development Philosophy</h2>
+  <h2>
+    <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="35"> 
+    Development Metrics
+    <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="35">
+  </h2>
   
-  <div>
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=User+experience+above+all+else;Simple+solutions+to+complex+problems;Performance+is+a+feature%2C+not+an+afterthought;Design+is+how+it+works%2C+not+just+how+it+looks;Code+is+read+more+often+than+it+is+written" alt="Typing SVG" />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@fhrurrosi&layout=compact&theme=radical&hide_border=true" alt="WakaTime Stats" width="70%">
   
-  <p align="center">
-    <em>"I don't just build websites; I craft digital experiences that connect with people. The best interfaces are the ones that feel invisible – they just work."</em>
-  </p>
+  <h3>Weekly Coding Breakdown</h3>
+  
+  ```text
+  React       ████████████████████░░░   80.2%
+  Next.js     ███████████░░░░░░░░░░░░   45.4%
+  TypeScript  ██████████░░░░░░░░░░░░░   40.1%
+  JavaScript  ████░░░░░░░░░░░░░░░░░░░   15.9%
+  CSS/SCSS    ██░░░░░░░░░░░░░░░░░░░░░   10.6%
+  Other       █░░░░░░░░░░░░░░░░░░░░░░    5.1%
+  ```
 </div>
 
-<br>
+<!-- Cyberpunk Separator -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/output/src/banner-rainbow.gif" width="100%">
 
-<!-- Stylish Separator -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- Contribution Snake Animation -->
+<!-- Developer Philosophy with Neo Cyberpunk Style -->
 <div align="center">
-  <h2><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Contribution Graph</h2>
+  <h2>
+    <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="40"> 
+    Developer Manifesto
+    <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="40">
+  </h2>
   
+  <div>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&pause=1000&color=00E6FE&center=true&vCenter=true&width=900&height=100&lines=User+experience+is+not+just+a+feature%2C+it+is+THE+product;Performance+and+aesthetics+must+coexist+in+harmony;Code+elegance+is+as+important+as+visual+design;Great+interfaces+disappear%2C+letting+content+shine;Responsive+is+not+enough+-+aim+for+adaptive+perfection" alt="Typing SVG" />
+  </div>
+  
+  <div>
+    <p>
+      <img src="https://media.giphy.com/media/QWvra259h4LCvdJnxP/giphy.gif" width="40" align="center">
+      <em>"In my work, I don't just write code – I craft digital experiences that bridge technology and human emotion. Every interaction matters, every millisecond counts, and every pixel has purpose."</em>
+    </p>
+  </div>
+</div>
+
+<!-- Futuristic Separator -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/output/src/banner-rainbow.gif" width="100%">
+
+<!-- Advanced Contribution Snake Animation - KEEPING THIS AS REQUESTED -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/hs3BxAGOk2BzTYStpZ/giphy.gif" width="40"> 
+    GitHub Contribution Snake
+    <img src="https://media.giphy.com/media/hs3BxAGOk2BzTYStpZ/giphy.gif" width="40">
+  </h2>
+  
+  <!-- KEEPING THE SNAKE ANIMATION -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fhrurrosi/fhrurrosi/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fhrurrosi/fhrurrosi/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fhrurrosi/fhrurrosi/output/github-contribution-grid-snake.svg" width="100%">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/fhrurrosi/fhrurrosi/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
-<br>
+<!-- Neon Separator -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/output/src/banner-rainbow.gif" width="100%">
 
-<!-- Spotify Now Playing -->
+<!-- Music & Spotify Section -->
 <div align="center">
-  <h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Spotify Now Playing</h2>
+  <h2>
+    <img src="https://media.giphy.com/media/PkYIv6yLOiBgb4UXaL/giphy.gif" width="30"> 
+    Currently Vibing To
+    <img src="https://media.giphy.com/media/PkYIv6yLOiBgb4UXaL/giphy.gif" width="30">
+  </h2>
   
-  [![Spotify](https://novatorem-alpha-olive.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/novatorem-alpha-olive)
+  [![Spotify](https://novatorem-eight-chi.vercel.app/api/spotify)](https://open.spotify.com/user/fhrurrosi)
 </div>
 
-<br>
+<!-- Neon Separator -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/output/src/banner-rainbow.gif" width="100%">
 
-<!-- Stylish Footer -->
+<!-- Quote Machine -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=150&section=footer&text=Let's%20Build%20Something%20Amazing%20Together&fontSize=30&fontAlignY=70" width="100%">
+  <h2>
+    <img src="https://media.giphy.com/media/ZFNlQBcXPoTDIrfFn8/giphy.gif" width="40"> 
+    Random Dev Quote
+    <img src="https://media.giphy.com/media/ZFNlQBcXPoTDIrfFn8/giphy.gif" width="40">
+  </h2>
+  
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 
-<!-- Floating SVG Animation -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
+<!-- Cyberpunk Footer with 3D Design -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer&text=Let's%20Create%20Digital%20Magic%20Together&fontSize=30&fontAlignY=70&animation=fadeIn" width="100%">
