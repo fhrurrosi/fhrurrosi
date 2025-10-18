@@ -11,27 +11,30 @@
 ---
 
 ### 👩‍💻 About Me
-- 🎓 Informatics Student passionate about web development  
-- 🎨 Focused on **Frontend Development** using React & Next.js  
-- 💡 Loves creating interactive and aesthetic UI  
-- 📚 Currently learning **Next.js**, **TypeScript**, and **Tailwind CSS**  
-- ⚡ Fun fact: I can spend hours perfecting one button 😆  
+
+- 🎓 Informatics Student passionate about web development
+- 🎨 Focused on **Frontend Development** using React & Next.js
+- 💡 Loves creating interactive and aesthetic UI
+- 📚 Currently learning **Next.js**, **TypeScript**, and **Tailwind CSS**
+- ⚡ Fun fact: I can spend hours perfecting one button 😆
 
 ---
 
 ### 🧰 Tech Stack & Tools
+
 <p align="center">
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" /><br/>
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=nodejs,php,mysql" /><br/>
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fhrurrosi&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=fhrurrosi&theme=tokyonight&hide_border=false" height="165"/>
@@ -44,6 +47,7 @@
 ---
 
 ### 🐍 My Contribution Snake
+
 <p align="center">
   <img src="https://github.com/fhrurrosi/fhrurrosi/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
@@ -51,6 +55,7 @@
 ---
 
 ### 🌐 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/m-fahrur-rosi-954190336" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
